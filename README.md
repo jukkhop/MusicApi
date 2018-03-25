@@ -1,0 +1,1 @@
+RESTful API implemented with ASP NET Core MVC, Entity Framework and MySQL. It is the backend counterpart to "MusicApp".
